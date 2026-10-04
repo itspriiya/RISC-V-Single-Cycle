@@ -1,0 +1,6 @@
+*.vcd
+*.out
+*.log
+*.exe
+riscv_sim
+basic_sim
